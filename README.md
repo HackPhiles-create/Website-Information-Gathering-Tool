@@ -1,2 +1,15 @@
 # Website-Information-Gathering-Tool
-Scanning Another Website And collected Details And Hacking 
+
+
+apt-get install python3
+
+pip3 install requests
+
+apt-get install git
+
+git clone https://github.com/AngelSecurityTeam/GatheTOOL
+
+cd GatheTOOL
+
+python3 GatheTool.py
+
